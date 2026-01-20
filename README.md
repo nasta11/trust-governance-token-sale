@@ -11,8 +11,10 @@ This repository documents a lightweight architecture for a token sale with a foc
 - `/architecture/threat-model.md` — threats, severity, mitigations
 - /architecture/security-controls.md — practical security controls checklist
 - /architecture/flows.md — system flows (deploy, buy, pause, withdraw)
+- /architecture/components-and-interfaces.md — components, interfaces, trust boundaries
 
 ## Status
 Day 4: Added security controls + system flows.
+Day 5: Added components + interfaces + trust boundaries.
 
 

@@ -27,3 +27,8 @@ Minimal token sale logic + explicit trust & governance layer.
 Smart contracts store rules and proofs.
 Operations and monitoring stay off-chain.
 
+## Architecture Docs
+- components-and-interfaces.md
+- security-controls.md
+- flows.md
+
